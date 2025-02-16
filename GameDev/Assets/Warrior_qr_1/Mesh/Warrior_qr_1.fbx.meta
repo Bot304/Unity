@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 529de0034dd345947a6594dccb1ab017
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161840
+  packageName: Warrior qr 1
+  packageVersion: 1.0
+  assetPath: Assets/Warrior_qr_1/Mesh/Warrior_qr_1.fbx
+  uploadId: 349021
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_warrior_qr_1_body
+    second: {fileID: 2100000, guid: 636bc822b450691429fa36a15bd0fd41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_warrior_qr_1_cloth
+    second: {fileID: 2100000, guid: 43eb7c9a59b7e1349a41d75757a13f34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_warrior_qr_1_other
+    second: {fileID: 2100000, guid: 7aa0876da05434f49bd62fef4d071967, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Warrior_qr_1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_qr_1_Mesh
+      parentName: Warrior_qr_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eays
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BODY
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knife
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Horns
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Toenails
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Belt
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Glasses
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nails_on_hands
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth
+      parentName: Warrior_qr_1_Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_Hips
+      parentName: Warrior_qr_1(Clone)
+      position: {x: 8.0544065e-18, y: 1.0815705, z: -0.07645434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftUpLeg
+      parentName: Warrior_QR_1_Hips
+      position: {x: -0.0891, y: -0.097835846, z: -0.036273826}
+      rotation: {x: -0.0014291258, y: 0.00013881097, z: 0.00000019837853, w: 0.999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftLeg
+      parentName: Warrior_QR_1_LeftUpLeg
+      position: {x: -0.062216047, y: -0.44186985, z: -0.001499159}
+      rotation: {x: 0.002964639, y: -0.00012999465, z: 0.00000038538886, w: 0.99999565}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftFoot
+      parentName: Warrior_QR_1_LeftLeg
+      position: {x: -0.021250632, y: -0.41662994, z: -0.00046448715}
+      rotation: {x: -0.0015355165, y: -0.000008817493, z: -0.000000013539422, w: 0.9999988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftFootIndex1
+      parentName: Warrior_QR_1_LeftFoot
+      position: {x: -0.0018435254, y: -0.078793146, z: 0.19107236}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftFootIndex2
+      parentName: Warrior_QR_1_LeftFootIndex1
+      position: {x: -0.004210157, y: -0.04082746, z: 0.11180137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_Spine
+      parentName: Warrior_QR_1_Hips
+      position: {x: 4.1050604e-18, y: 0.118297495, z: 0.018487548}
+      rotation: {x: -0.0632498, y: 0, z: -0, w: 0.99799776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_Spine1
+      parentName: Warrior_QR_1_Spine
+      position: {x: 2.874692e-17, y: 0.07327543, z: 0.009330656}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_Spine2
+      parentName: Warrior_QR_1_Spine1
+      position: {x: 1.6203384e-16, y: 0.06754687, z: 0.008312771}
+      rotation: {x: 0.056705736, y: -0, z: -0, w: 0.998391}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftShoulder
+      parentName: Warrior_QR_1_Spine2
+      position: {x: -0.08687312, y: 0.23175746, z: 0.056232076}
+      rotation: {x: -0.0049706423, y: 0.13118158, z: -0.037536453, w: 0.99063504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftArm
+      parentName: Warrior_QR_1_LeftShoulder
+      position: {x: -0.1456983, y: -0.01381009, z: -0.040956598}
+      rotation: {x: 0.030362414, y: -0.12674999, z: -0.15734331, w: 0.9789053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftForeArm
+      parentName: Warrior_QR_1_LeftArm
+      position: {x: -0.26975045, y: -0.0927472, z: -0.00081016804}
+      rotation: {x: 0.037328146, y: -0.11881901, z: 0.08926888, w: 0.9881901}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHand
+      parentName: Warrior_QR_1_LeftForeArm
+      position: {x: -0.31419936, y: -0.06946752, z: 0.083045565}
+      rotation: {x: 0.01802241, y: -0.07053871, z: -0.03573311, w: 0.9967059}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandThumb1
+      parentName: Warrior_QR_1_LeftHand
+      position: {x: -0.03191685, y: -0.021469666, z: 0.06057867}
+      rotation: {x: -0.190281, y: 0.008065282, z: -0.08078115, w: 0.9783673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandThumb2
+      parentName: Warrior_QR_1_LeftHandThumb1
+      position: {x: -0.020551238, y: -0.042449404, z: 0.050232496}
+      rotation: {x: -0.14895257, y: -0.02331447, z: -0.04717405, w: 0.9874433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandThumb3
+      parentName: Warrior_QR_1_LeftHandThumb2
+      position: {x: -0.010918751, y: -0.05585884, z: 0.03076903}
+      rotation: {x: -0.1487441, y: 0.09397125, z: 0.028435288, w: 0.98398983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandThumb4
+      parentName: Warrior_QR_1_LeftHandThumb3
+      position: {x: -0.013511824, y: -0.039456572, z: 0.004824056}
+      rotation: {x: 0, y: 0, z: 0.3412459, w: 0.93997407}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandIndex1
+      parentName: Warrior_QR_1_LeftHand
+      position: {x: -0.15748517, y: -0.0515732, z: 0.110484876}
+      rotation: {x: -0.11032335, y: -0.029382385, z: -0.2829581, w: 0.95231307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandIndex2
+      parentName: Warrior_QR_1_LeftHandIndex1
+      position: {x: -0.021827225, y: -0.029769067, z: 0.010529823}
+      rotation: {x: -0.045159534, y: -0.027875628, z: -0.06927822, w: 0.99618477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandIndex3
+      parentName: Warrior_QR_1_LeftHandIndex2
+      position: {x: -0.019938877, y: -0.037437003, z: 0.0073140357}
+      rotation: {x: -0.0027525087, y: 0.28568745, z: -0.40102157, w: 0.8703774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandIndex4
+      parentName: Warrior_QR_1_LeftHandIndex3
+      position: {x: 0.011299211, y: -0.03478478, z: 0.0010001584}
+      rotation: {x: -0.16994587, y: -0.20185128, z: 0.04965707, w: 0.96328014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandMiddle1
+      parentName: Warrior_QR_1_LeftHand
+      position: {x: -0.17310193, y: -0.04708845, z: 0.07661336}
+      rotation: {x: -0.111100264, y: -0.029592335, z: -0.28486896, w: 0.9516463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandMiddle2
+      parentName: Warrior_QR_1_LeftHandMiddle1
+      position: {x: -0.02483473, y: -0.03477888, z: 0.012284919}
+      rotation: {x: -0.032765716, y: -0.006615767, z: -0.03629042, w: 0.99878216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandMiddle3
+      parentName: Warrior_QR_1_LeftHandMiddle2
+      position: {x: -0.018202133, y: -0.029132657, z: 0.00528073}
+      rotation: {x: -0.081350215, y: -0.026628537, z: -0.3320623, w: 0.9393656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandMiddle4
+      parentName: Warrior_QR_1_LeftHandMiddle3
+      position: {x: 0.005513053, y: -0.037244618, z: 0.0017393588}
+      rotation: {x: 0.00094388356, y: -0.005692798, z: 0.3411925, w: 0.93997574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandRing1
+      parentName: Warrior_QR_1_LeftHand
+      position: {x: -0.18089032, y: -0.051421396, z: 0.04140309}
+      rotation: {x: -0.107171506, y: -0.02854813, z: -0.2750952, w: 0.9549984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandRing2
+      parentName: Warrior_QR_1_LeftHandRing1
+      position: {x: -0.026419533, y: -0.03444795, z: 0.015418281}
+      rotation: {x: -0.042120207, y: -0.00991152, z: -0.06590044, w: 0.99688756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandRing3
+      parentName: Warrior_QR_1_LeftHandRing2
+      position: {x: -0.012442305, y: -0.021642048, z: 0.0054264185}
+      rotation: {x: -0.07799098, y: -0.027171338, z: -0.33235374, w: 0.9395318}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandRing4
+      parentName: Warrior_QR_1_LeftHandRing3
+      position: {x: 0.00718233, y: -0.030399708, z: 0.0039152973}
+      rotation: {x: 0.0009439352, y: -0.0056931097, z: 0.3411925, w: 0.93997574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandPinky1
+      parentName: Warrior_QR_1_LeftHand
+      position: {x: -0.18942842, y: -0.06076636, z: 0.01388546}
+      rotation: {x: -0.10541402, y: -0.028080665, z: -0.2707251, w: 0.9564556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandPinky2
+      parentName: Warrior_QR_1_LeftHandPinky1
+      position: {x: -0.016320981, y: -0.021673765, z: 0.009376701}
+      rotation: {x: -0.062107086, y: -0.0145667065, z: -0.11557006, w: 0.9912488}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandPinky3
+      parentName: Warrior_QR_1_LeftHandPinky2
+      position: {x: -0.008090716, y: -0.020110566, z: 0.0055808877}
+      rotation: {x: -0.05475473, y: -0.03470699, z: -0.3867954, w: 0.9198841}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_LeftHandPinky4
+      parentName: Warrior_QR_1_LeftHandPinky3
+      position: {x: 0.013377971, y: -0.027396735, z: 0.006653217}
+      rotation: {x: 0, y: 0, z: 0.34238353, w: 0.9395603}
+      scale: {x: 1, y: 1, z: 1.0000006}
+    - name: Warrior_QR_1_Neck
+      parentName: Warrior_QR_1_Spine2
+      position: {x: 1.0342209e-15, y: 0.32677692, z: 0.0012651924}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_Head
+      parentName: Warrior_QR_1_Neck
+      position: {x: 6.5289543e-16, y: 0.09907042, z: 0.033643186}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightShoulder
+      parentName: Warrior_QR_1_Spine2
+      position: {x: 0.08687312, y: 0.23175746, z: 0.056232076}
+      rotation: {x: -0.006160301, y: -0.1260245, z: 0.048433267, w: 0.990825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightArm
+      parentName: Warrior_QR_1_RightShoulder
+      position: {x: 0.1456983, y: -0.013810252, z: -0.0409566}
+      rotation: {x: 0.028368114, y: 0.13195342, z: 0.11278809, w: 0.9844097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightForeArm
+      parentName: Warrior_QR_1_RightArm
+      position: {x: 0.26975295, y: -0.09273983, z: -0.0008098063}
+      rotation: {x: 0.030063974, y: 0.11197045, z: -0.063056186, w: 0.9912531}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHand
+      parentName: Warrior_QR_1_RightForeArm
+      position: {x: 0.31416094, y: -0.069641195, z: 0.083045565}
+      rotation: {x: 0.018763741, y: 0.0753783, z: 0.045031555, w: 0.99596095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandThumb1
+      parentName: Warrior_QR_1_RightHand
+      position: {x: 0.03202915, y: -0.0213018, z: 0.060578674}
+      rotation: {x: -0.19142379, y: -0.005389309, z: 0.0993152, w: 0.976455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandThumb2
+      parentName: Warrior_QR_1_RightHandThumb1
+      position: {x: 0.019204143, y: -0.0430756, z: 0.050232485}
+      rotation: {x: -0.14995135, y: 0.015663188, z: -0.034539744, w: 0.9879657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandThumb3
+      parentName: Warrior_QR_1_RightHandThumb2
+      position: {x: 0.018276455, y: -0.053901777, z: 0.030769045}
+      rotation: {x: -0.16092202, y: -0.071130544, z: 0.24566507, w: 0.953254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandThumb4
+      parentName: Warrior_QR_1_RightHandThumb3
+      position: {x: -0.0040985737, y: -0.04150415, z: 0.0048240125}
+      rotation: {x: -0, y: 0, z: 0.8901782, w: -0.4556126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandIndex1
+      parentName: Warrior_QR_1_RightHand
+      position: {x: 0.15775368, y: -0.050745845, z: 0.11048485}
+      rotation: {x: -0.11117891, y: 0.032312684, z: 0.29506347, w: 0.948437}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandIndex2
+      parentName: Warrior_QR_1_RightHandIndex1
+      position: {x: 0.020878918, y: -0.030441746, z: 0.010529835}
+      rotation: {x: -0.046131913, y: -0.008455751, z: -0.011608049, w: 0.99883217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandIndex3
+      parentName: Warrior_QR_1_RightHandIndex2
+      position: {x: 0.02521392, y: -0.034408182, z: 0.0057372707}
+      rotation: {x: -0.2654509, y: 0.33202994, z: 0.5654106, w: 0.70682585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandIndex4
+      parentName: Warrior_QR_1_RightHandIndex3
+      position: {x: -0.016413124, y: -0.028216468, z: -0.016525565}
+      rotation: {x: 0.43037716, y: -0.4236766, z: -0.17215368, w: 0.7782267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandMiddle1
+      parentName: Warrior_QR_1_RightHand
+      position: {x: 0.17334673, y: -0.04617908, z: 0.07661334}
+      rotation: {x: -0.11544587, y: 0.03355281, z: 0.30530614, w: 0.9446347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandMiddle2
+      parentName: Warrior_QR_1_RightHandMiddle1
+      position: {x: 0.023727052, y: -0.035543885, z: 0.012284907}
+      rotation: {x: -0.033321597, y: -0.012660032, z: -0.047150776, w: 0.9982516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandMiddle3
+      parentName: Warrior_QR_1_RightHandMiddle2
+      position: {x: 0.02209872, y: -0.026442582, z: 0.004511071}
+      rotation: {x: -0.21300569, y: 0.3313365, z: 0.5255717, w: 0.7540684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandMiddle4
+      parentName: Warrior_QR_1_RightHandMiddle3
+      position: {x: -0.01862314, y: -0.031501785, z: -0.009022}
+      rotation: {x: 0.43037716, y: -0.4236766, z: -0.17215368, w: 0.7782267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandRing1
+      parentName: Warrior_QR_1_RightHand
+      position: {x: 0.18115768, y: -0.05047119, z: 0.041403055}
+      rotation: {x: -0.102395244, y: 0.029759698, z: 0.27396804, w: 0.9558092}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandRing2
+      parentName: Warrior_QR_1_RightHandRing1
+      position: {x: 0.025321625, y: -0.035262857, z: 0.015418301}
+      rotation: {x: -0.04213214, y: -0.009460866, z: -0.0211503, w: 0.9988434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandRing3
+      parentName: Warrior_QR_1_RightHandRing2
+      position: {x: 0.015399991, y: -0.019787699, z: 0.0048911837}
+      rotation: {x: -0.23443842, y: 0.33157888, z: 0.55191237, w: 0.72834533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandRing4
+      parentName: Warrior_QR_1_RightHandRing3
+      position: {x: -0.018605525, y: -0.024431204, z: -0.0069289347}
+      rotation: {x: 0.43037716, y: -0.4236766, z: -0.17215368, w: 0.7782267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandPinky1
+      parentName: Warrior_QR_1_RightHand
+      position: {x: 0.18974477, y: -0.059771094, z: 0.013885435}
+      rotation: {x: -0.105544955, y: 0.03067528, z: 0.28153396, w: 0.9532355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandPinky2
+      parentName: Warrior_QR_1_RightHandPinky1
+      position: {x: 0.015630338, y: -0.02217693, z: 0.009376694}
+      rotation: {x: -0.063577585, y: -0.0051620854, z: 0.032853108, w: 0.9974227}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandPinky3
+      parentName: Warrior_QR_1_RightHandPinky2
+      position: {x: 0.010889945, y: -0.01885134, z: 0.0052039456}
+      rotation: {x: -0.20766884, y: 0.32460675, z: 0.58739376, w: 0.711669}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightHandPinky4
+      parentName: Warrior_QR_1_RightHandPinky3
+      position: {x: -0.023533484, y: -0.0189835, z: -0.007721412}
+      rotation: {x: 0.43061695, y: -0.4232654, z: -0.17184418, w: 0.7783862}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightUpLeg
+      parentName: Warrior_QR_1_Hips
+      position: {x: 0.0891, y: -0.097835846, z: -0.036273822}
+      rotation: {x: -0.0029035492, y: -0.00028222433, z: -0.00000081945564, w: 0.99999577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightLeg
+      parentName: Warrior_QR_1_RightUpLeg
+      position: {x: 0.06221654, y: -0.44186893, z: -0.0015009025}
+      rotation: {x: 0.0037485496, y: 0.00016481485, z: -0.000000617821, w: 0.99999297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightFoot
+      parentName: Warrior_QR_1_RightLeg
+      position: {x: 0.021250924, y: -0.41663024, z: -0.00046455493}
+      rotation: {x: -0.00193942, y: 0.000011130233, z: 0.0000009598749, w: 0.99999815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightFootIndex1
+      parentName: Warrior_QR_1_RightFoot
+      position: {x: 0.0018434776, y: -0.07879315, z: 0.19107239}
+      rotation: {x: 0, y: 0.00008378254, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warrior_QR_1_RightFootIndex2
+      parentName: Warrior_QR_1_RightFootIndex1
+      position: {x: 0.004191413, y: -0.040827464, z: 0.1118021}
+      rotation: {x: 0, y: -0.00029323893, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Warrior_QR_1_Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d0188c64b3ff75947a4e285da6cedcd4
+timeCreated: 1489413550
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161840
+  packageName: Warrior qr 1
+  packageVersion: 1.0
+  assetPath: Assets/Warrior_qr_1/Standart/Shaders/Double Sided Shaders/Double Sided
+    Emissive Diffuse.shader
+  uploadId: 349021

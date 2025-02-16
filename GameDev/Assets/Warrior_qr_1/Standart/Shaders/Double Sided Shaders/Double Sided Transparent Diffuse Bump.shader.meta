@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 102ae67d75d24bf49b90cba8fedb7360
+timeCreated: 1489416242
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161840
+  packageName: Warrior qr 1
+  packageVersion: 1.0
+  assetPath: Assets/Warrior_qr_1/Standart/Shaders/Double Sided Shaders/Double Sided
+    Transparent Diffuse Bump.shader
+  uploadId: 349021
